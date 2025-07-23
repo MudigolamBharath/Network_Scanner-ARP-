@@ -28,7 +28,7 @@ IP                  MAC
 🚀 How to Run
 Clone the repo:
 
-git clone https://github.com/MudigolamBharathNetwork_Scanner-ARP-.git
+git clone https://github.com/MudigolamBharath/Network_Scanner-ARP-.git
 cd network-scanner
 Install dependencies:
 
